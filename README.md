@@ -18,3 +18,18 @@
 - p07-funciones-trigonometricas.py
 - p07b-funciones-del-modulo-math.py
 - p08-dividir-en-cifras.py
+
+## TAREA 01
+- p09-hipotenusa-triangulo.py
+- p10-tercer-angulo.py
+- p11-convertir-temperatura.py
+- p12-volumen-cilindro.py
+- p13-calculo tiempo.py
+- p14-numero-suerte.py 
+
+## ACTIVIDAD 4
+-p015-verficar-numero.py
+-p016-verificar-suma.py
+-p017-convertir-temperaturas.py
+-p017-convertir-temperaturas-v2.py
+-p018-paga-trabajador-v2.py
