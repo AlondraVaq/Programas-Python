@@ -33,3 +33,9 @@
 -p017-convertir-temperaturas.py
 -p017-convertir-temperaturas-v2.py
 -p018-paga-trabajador-v2.py
+
+## ACTIVIDAD 5
+- p19-verfica-suma.py
+- p20-ley-de-newton.py
+- p21-aceptar-estudiante.py
+- p22-tipo-angulo.py
