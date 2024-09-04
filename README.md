@@ -39,3 +39,14 @@
 - p20-ley-de-newton.py
 - p21-aceptar-estudiante.py
 - p22-tipo-angulo.py
+
+## ACTIVIDAD 6
+- p29-numeros-1-100-V1
+- p29-numeros-1-100-V2
+- p29-numeros-1-100-V3
+- p30-numeros-100-1-V1
+- p30-numeros-100-1-V2
+- p30-numeros-100-1-V3
+- p31-numeros-1-200-10
+- p32-numeros-suma-100
+- p33-conteo-numeros
