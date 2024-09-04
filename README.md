@@ -40,6 +40,14 @@
 - p21-aceptar-estudiante.py
 - p22-tipo-angulo.py
 
+## TAREA 02
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-de-la-semana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-V2
+
 ## ACTIVIDAD 6
 - p29-numeros-1-100-V1
 - p29-numeros-1-100-V2
@@ -50,3 +58,4 @@
 - p31-numeros-1-200-10
 - p32-numeros-suma-100
 - p33-conteo-numeros
+
