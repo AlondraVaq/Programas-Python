@@ -123,3 +123,10 @@
 - p77-lista-aleatorios-suma
 - p78-ciudades
 - p79-lista-impares
+
+## ACTIVIDAD 12
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres-edades
+- p83-conversion-medida
+- p84-conversion-moneda
