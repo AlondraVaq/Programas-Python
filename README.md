@@ -155,4 +155,3 @@
 - p99-numeros
 
 ## EXAMEN 2
-- p100-segundo-examen-parcial
