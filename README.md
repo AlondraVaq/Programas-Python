@@ -149,3 +149,10 @@
 ## ACTIVIDAD 14
 - p96-trbajando-conjuntos
 - p97-operaciones-conjuntos
+
+## TAREA 7
+- p98-personas
+- p99-numeros
+
+## EXAMEN 2
+- p100-segundo-examen-parcial
